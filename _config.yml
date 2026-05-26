@@ -1,0 +1,39 @@
+# Update resume content in _data/data.yml
+
+# Site Settings
+title: Jongyeob Kim, MD, MS
+
+# Custom domain (production)
+url: 'https://jongyeobkim.com'
+baseurl: ''
+
+# Local preview only — temporarily switch to:
+# url: 'http://localhost:4000'
+# baseurl: ''
+
+description: Resume of Jongyeob Kim, MD, MS
+# Restart `jekyll serve` after changing skin.
+theme_skin: grey_custom
+chrome_mobile_color: #1a1a1a
+
+# Optional Google Analytics ID (leave empty to disable)
+analytics:
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+compress-site: yes
+
+encoding: "utf-8"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

@@ -1,0 +1,31 @@
+---
+description: CV content files — propose edits only, do not apply directly
+globs: _data/**/*.yml,_config.yml
+alwaysApply: false
+---
+
+# CV content — propose changes only
+
+When editing resume content in this repo:
+
+## Do NOT
+
+- Use Write, StrReplace, or other tools to modify `_data/data.yml`, `_data/**/*.yml`, or `_config.yml` directly.
+- Commit or push CV content changes unless the user explicitly asks you to commit.
+
+## DO
+
+- Show proposed edits as a **unified diff** or **copy-paste YAML blocks** in the chat.
+- Explain **why** each change is needed (theme field names, YAML structure, etc.).
+- Ask the user to apply changes themselves, or wait for explicit approval such as: "apply that", "make that edit", "commit it".
+
+## Theme reminders (online-cv / Jekyll)
+
+- Jobs: `experiences:` → `info:` → `role`, `company`, `time`, `details` (not `degree` / `university`).
+- Degrees: `education:` → `info:` → `degree`, `university`, `time`.
+- Sidebar links: only defined keys (`email`, `phone`, `website`, `linkedin`, `github`, …) — no custom keys like `Google Scholar:`.
+- Markdown links belong in `summary:` or `details:`, not inventing new sidebar fields.
+
+## If the user says "fix it" or "update my CV"
+
+Still **propose first** unless they also say **apply**, **edit the file**, or **commit**.
