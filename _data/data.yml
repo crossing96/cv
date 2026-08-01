@@ -63,28 +63,25 @@ publications:
   intro: |
     Full list on [Google Scholar](https://scholar.google.com/citations?user=7VjefOQAAAAJ&hl=en).
   papers:
-    - title: "Hyperprogressive Disease during Anti-PD-1/PD-L1 Therapy: systematic review and meta-analysis"
-      link: https://pubmed.ncbi.nlm.nih.gov/31683809/
-      authors: Kim JY (first author), Lee KH, et al.; Cancers 2019
-
-    - title: "Tumor Mutational Burden and efficacy of immune checkpoint inhibitors: systematic review and meta-analysis"
-      link: https://pubmed.ncbi.nlm.nih.gov/31731749/
-      authors: Kim JY (first author), Kronbichler A, et al.; Cancers 2019
-
     - title: "An atlas of associations between micronutrients and cancer outcomes: Mendelian randomization"
       link: https://pubmed.ncbi.nlm.nih.gov/37605270/
-      authors: Kim JY (co-first), Song M, Kim MS, et al.; BMC Medicine 2023
-
+      authors: Kim JY, Song M, Kim MS, et al.; BMC Medicine 2023
     - title: "Balancing risks and benefits of cannabis use: umbrella review"
       link: https://pubmed.ncbi.nlm.nih.gov/37648266/
       authors: Solmi M, De Toffol M, Kim JY (co-first), et al.; BMJ 2023
-
+    - title: "Hyperprogressive Disease during Anti-PD-1/PD-L1 Therapy: systematic review and meta-analysis"
+      link: https://pubmed.ncbi.nlm.nih.gov/31683809/
+      authors: Kim JY, Lee KH, et al.; Cancers 2019
+    - title: "Tumor Mutational Burden and efficacy of immune checkpoint inhibitors: systematic review and meta-analysis"
+      link: https://pubmed.ncbi.nlm.nih.gov/31731749/
+      authors: Kim JY, Kronbichler A, et al.; Cancers 2019
     - title: "Environmental risk factors and biomarkers for autism spectrum disorder: umbrella review"
       link: https://pubmed.ncbi.nlm.nih.gov/31230684/
-      authors: Kim JY (co-first), Son MJ, et al.; Lancet Psychiatry 2019
-
+      authors: Kim JY, Son MJ, et al.; Lancet Psychiatry 2019
     - title: "Environmental risk factors and peripheral biomarkers for ADHD: umbrella review"
       link: https://pubmed.ncbi.nlm.nih.gov/33069318/
       authors: Kim JH, Kim JY (co-first), et al.; Lancet Psychiatry 2020
-
+    - title: "Association between adiposity and cardiovascular outcomes: an umbrella review and meta-analysis of observational and Mendelian randomization studies"
+      link: https://pubmed.ncbi.nlm.nih.gov/34333589/
+      authors: Kim MS, …, Kim JY, …, et al.; European Heart Journal 2021
 
